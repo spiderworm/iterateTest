@@ -1,0 +1,19 @@
+{
+  "name": "iterate-test",
+  "version": "0.0.1",
+  "description": "Utility to iterate over tests with sets of test data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spiderworm/iterateTest.git"
+  },
+  "author": "David Millet",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/spiderworm/iterateTest/issues"
+  },
+  "homepage": "https://github.com/spiderworm/iterateTest#readme"
+}
