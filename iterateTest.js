@@ -19,7 +19,7 @@ function iterateTest(vals, test) {
                     config.echo(valSet, valSetName);
                 }
                 var thisArgs = [valSet, valSetName].concat(args);
-                func.call(target, thisArgs);
+                func.apply(target, thisArgs);
             });
         });
     }

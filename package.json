@@ -1,6 +1,6 @@
 {
   "name": "iterate-test",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Utility to iterate over tests with sets of test data",
   "main": "index.js",
   "scripts": {
